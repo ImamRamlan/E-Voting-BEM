@@ -1,3 +1,4 @@
+![alt text](https://github.com/ImamRamlan/E-Voting-BEM/blob/main/public/for_readme/bg-dashboard.png?raw=true)
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
